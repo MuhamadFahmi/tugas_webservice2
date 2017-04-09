@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<penjualan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lemari.xsd">
+    <barang>
+        <jenis>lemari anak</jenis>
+        <jumlah>4</jumlah>
+        <harga>150000</harga>
+        <reseller>
+            <pt>olympic</pt>
+            <kode>1154049</kode>
+        </reseller>
+        <pemilik>
+            <nama>fahmi</nama>
+            <nomor>1</nomor>
+        </pemilik>
+    </barang>
+    <barang>
+        <jenis>lemari pakaian</jenis>
+        <jumlah>5</jumlah>
+        <harga>500000</harga>
+       <reseller>
+            <pt>hotel setiabudhi</pt>
+            <kode>11540499</kode>
+        </reseller>
+        <pemilik>
+            <nama>fahmi</nama>
+            <nomor>13</nomor>
+        </pemilik>
+    </barang>
+</penjualan>
